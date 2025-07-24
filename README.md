@@ -1,2 +1,2 @@
-# FocusPaint
-A basic painting program made from a 14-yo dum dum 🎨✨
+# Introducing FocusPaint 🎨✨ - A basic painting program designed to help artists focus.
+Pure, visual C++, but veri cool for all 😎👍
